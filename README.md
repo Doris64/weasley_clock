@@ -1,5 +1,5 @@
 # Weasley Clock
 
 # Authors
-- @Doris64
-- @Crainbows
+- Doris64
+- Crainbows
