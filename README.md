@@ -1,1 +1,5 @@
-# weasley_clock
+# Weasley Clock
+
+# Authors
+- @Doris64
+- @Crainbows
